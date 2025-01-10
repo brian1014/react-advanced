@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, NavLink, Navigate } from "react-router";
+import { BrowserRouter, Routes, Route, NavLink, Navigate } from "react-router-dom";
 import logo from "../assets/react.svg";
 
 export function Navigation() {
