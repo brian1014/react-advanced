@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, NavLink, Navigate } from "react-router"
+import { BrowserRouter, Navigate, NavLink, Route, Routes } from "react-router-dom"
 import logo from "../assets/react.svg"
 import { routes } from "./routes"
 import { Suspense } from "react"
